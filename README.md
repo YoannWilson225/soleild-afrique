@@ -7,3 +7,8 @@ C'est ici qu'on va échanger des notes concernant le projet soleil d'Afrique #so
 ~ YoannWilson~
 Au debut de chaque message met ton nom et parle
 Bon déroulement du projet.
+
+
+ ~ GregoryE~
+present dans la matrice
+
