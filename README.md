@@ -28,3 +28,6 @@ alors j'ai modifié :
 
 ~ GregoryE~
 ok mais ce que t'as retiré la ça servait à quoi ?
+
+~ GregoryE~
+Aussi c'est sûrement parce que ton ecran est plus petit mais chez moi tu remplie pas toute la page 
