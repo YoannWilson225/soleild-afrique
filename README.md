@@ -26,3 +26,5 @@ alors j'ai modifié :
     -le logo et le title
     -j'ai mis en français différents trucs tu verras
 
+~ GregoryE~
+ok mais ce que t'as retiré la ça servait à quoi ?
