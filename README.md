@@ -34,3 +34,16 @@ Aussi c'est sûrement parce que ton ecran est plus petit mais chez moi tu rempli
 
 ~ GregoryE~
 j'ai juste arrondi les boutons dans ".btn.btn-custom"
+
+~ YoannWilson~
+Justement je ne savais pas à quoi ça servait donc ça m'énervait
+
+~ YoannWilson~
+En comment man explique toi plus
+
+~ YoannWilson~
+yfy pour les boutons
+
+~ YoannWilson~
+je préférais les boutons comme ils étaient toi tu vois ça en comment
+
