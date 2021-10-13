@@ -48,5 +48,8 @@ yfy pour les boutons
 je préférais les boutons comme ils étaient toi tu vois ça en comment
 
 ~ GregoryE~
-En fait sur le site qu'elle a montré c'etait arrondi je crois sinon moi perso les 2 me vont 
+En fait sur le site qu'elle a montré c'etait arrondi je crois sinon moi perso les 2 me vont
+
+~ YoannWilson~
+yfy yfy bro c'est carré
 
