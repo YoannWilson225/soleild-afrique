@@ -53,3 +53,17 @@ En fait sur le site qu'elle a montré c'etait arrondi je crois sinon moi perso l
 ~ YoannWilson~
 yfy yfy bro c'est carré
 
+
+
+~ YoannWilson~
+Tu avais dis que l'image de la page d'accueil ne prenait pas tout ton pc j'ai modifié essaie de voir: 
+@media (max-width: 1600px) {   
+    .container-fluid{
+        max-width: 1599px;
+        padding: 0;
+        margin: 0;
+    }
+    
+}
+
+
