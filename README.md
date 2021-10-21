@@ -71,3 +71,6 @@ dc g changer le width mais c'est pas responsive en mode g essayé de dezoomzer e
  bon je pense que si son ecran n'est pas exactement comme le mien ça va etre comme avant 
 
 
+
+~ YoannWilson~
+ça marche maintenant non?
